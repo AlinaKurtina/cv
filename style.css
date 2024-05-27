@@ -1,1 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 20px;
+}
 
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.markdown {
+    white-space: pre-wrap;
+}
+
+.markdown code {
+    font-size: 14px;
+}
