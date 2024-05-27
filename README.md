@@ -1,1 +1,1 @@
-https://AlinaKurtina.github.io/cvnew/cv
+https://AlinaKurtina.github.io/cv/cv
