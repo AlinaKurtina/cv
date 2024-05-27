@@ -19,3 +19,9 @@ p {
 .markdown code {
     font-size: 14px;
 }
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
